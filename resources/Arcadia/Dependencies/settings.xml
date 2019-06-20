@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <servername>Simple Native Multiplayer Server</servername>
+  <serverport>4499</serverport>
+  <maxplayers>50</maxplayers>
+  <minclientversion>0.0.0.0</minclientversion>
+  <minclientversion_auto_update>true</minclientversion_auto_update>
+  <announce>true</announce>
+  <upnp>false</upnp>
+  <announce_lan>true</announce_lan>
+  <password />
+  <acl_enabled>true</acl_enabled>
+  <log>true</log>
+  <vehicle_lagcomp>true</vehicle_lagcomp>
+  <onfoot_lagcomp>true</onfoot_lagcomp>
+  <refresh_rate>0</refresh_rate>
+  <loglevel>0</loglevel>
+  <httpserver>false</httpserver>
+  <trust_client_entity_properties>false</trust_client_entity_properties>
+  <local_address>0.0.0.0</local_address>
+  <global_stream_range>1000</global_stream_range>
+  <player_stream_range>250</player_stream_range>
+  <vehicle_stream_range>350</vehicle_stream_range>
+  <fqdn />
+  <conntimeout>true</conntimeout>
+  <allowcefdevtool>false</allowcefdevtool>
+  <resource src="SimpleFX" />
+</config>

@@ -1,0 +1,94 @@
+<meta>
+    <info name="CherryRP" author="Landrut" type="gamemode" />
+	
+	<!--Map-->
+	
+	<!--CharacterBehaviour-->
+	
+	<!--<script src="Client/CharacterBehaviour/CharacterMoods.js" type="client" lang="javascript" />-->
+	<!--<script src="Client/CharacterBehaviour/WalkingStyles.js" type="client" lang="javascript" />-->
+	<!--<script src="Client/CharacterBehaviour/Crouch.js" type="client" lang="javascript" />-->
+	<script src="Client/CharacterBehaviour/PlayerAnimations.js" type="client" lang="javascript" />
+	
+	<!--HUD-->
+	
+	<script src="Client/HUD/PlayerHUD.js" type="client" lang="javascript" />
+	
+	<!--World-->
+	
+	<!--<script src="Client/World/Weather.js" type="client" lang="javascript" />-->
+	<!--<script src="Client/World/DayNightService.js" type="client" lang="javascript" />-->
+	
+	<!--MainScripts-->
+    <!--<script src="Client/Main.js" type="client" lang="javascript" />-->
+	<script src="Client/Arenda.js" type="client" lang="javascript" />
+	<script src="Client/EMSHeal.js" type="client" lang="javascript" />
+	<script src="Client/Sad.js" type="client" lang="javascript" />
+	<script src="Client/FlyWater.js" type="client" lang="javascript" />
+	<script src="Client/JobServise.js" type="client" lang="javascript" />
+	
+	
+	
+	<!--CustomSkin-->
+    <script src="Client/CustomSkin.js" type="client" lang="javascript" />
+	
+	<script src="Client/InteriorProps.js" type="client" lang="javascript" />
+	
+	<!--Menus-->
+	<!--<script src="Client/ATM.js" type="client" lang="javascript" />-->
+	<script src="Client/MenuManager.js" type="client" lang="javascript" />
+	<!--<script src="Client/MenuHelper.js" type="client" lang="javascript" />-->
+	
+	
+	<!--VehicleService-->
+	<script src="Client/VehicleHUD.js" type="client" lang="javascript" />
+	<!--<script src="Client/VehicleSirens.js" type="client" lang="javascript" />-->
+	<script src="Client/VehicleIndicators.js" type="client" lang="javascript" />
+	
+	<!--VehicleHUD-->
+	<!--<script src="Client/Quests.js" type="client" lang="javascript" />-->
+	
+	<!--MoneyHUD-->
+	<script src="Client/MoneyHUD.js" type="client" lang="javascript" />
+	
+	<script src="Client/EngineService.js" type="client" lang="javascript" />
+	
+	
+	<script src="Client/VehicleHandler.js" type="client" lang="javascript" />
+	<script src="Client/TattooService.js" type="client" lang="javascript" />
+	
+	<script src="Client/House/House.js" type="client" lang="javascript" />
+	<script src="Client/House/FurnitureEditor.js" type="client" lang="javascript" />
+	
+	<script src="Client/HelicopterRapeling.js" type="client" lang="javascript" />
+	<script src="Client/HelmetVision.js" type="client" lang="javascript" />
+	<script src="Client/Animator.js" type="client" lang="javascript" />
+	
+	<!--<file src="Client/icons/iconDay.png" />-->
+	<!--<file src="Client/icons/iconNight.png" />-->
+	
+	<!--<script src="Client/HelpBrowser.js" type="client" lang="javascript" />-->
+	
+	<!--<file src="Client/HelpBrowser/index.html"/>-->
+	<!--<file src="Client/HelpBrowser/arac.html"/>-->
+	<!--<file src="Client/HelpBrowser/ev.html"/>-->
+	<!--<file src="Client/HelpBrowser/genel.html"/>-->
+	<!--<file src="Client/HelpBrowser/olusum.html"/>-->
+	
+	<!--<file src="Client/HelpBrowser/assets/js/jquery.min.js"/>-->
+	<!--<file src="Client/HelpBrowser/assets/js/skel.min.js"/>-->
+	<!--<file src="Client/HelpBrowser/assets/js/util.js"/>-->
+	<!--<file src="Client/HelpBrowser/assets/js/main.js"/>-->
+	
+	<!--<file src="Client/HelpBrowser/assets/css/main.css"/>-->
+	<!--<file src="Client/HelpBrowser/assets/css/font-awesome.min.css"/>-->
+	
+	<script src="CherryRolePlay.dll" type="server" lang="compiled" />
+	
+	<!-- Assemblys -->
+	<assembly ref="Microsoft.CSharp.dll" />
+    <assembly ref="System.Data.dll"/>
+    <assembly ref="MySql.Data.dll"/>
+	<assembly ref="Newtonsoft.Json.dll" />
+
+</meta>

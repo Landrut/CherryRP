@@ -1,0 +1,265 @@
+-> SERVER STARTED AT 02.03.2019 21:54:53[21:54:53] Starting...
+[21:54:53] ERROR: Necessary "resources" folder does not exist!
+[21:54:57] Terminating...
+-> SERVER STARTED AT 02.03.2019 21:55:33[21:55:33] Starting...
+[21:55:33] Loading resources...
+[21:55:33] Starting SimpleFX
+[21:55:33] Resource SimpleFX started!
+[21:55:33] Started! Waiting for connections.
+[21:55:33] Failed to announce self: master server is not available at this time.
+[21:57:33] Failed to announce self: master server is not available at this time.
+[21:59:33] Failed to announce self: master server is not available at this time.
+[22:01:33] Failed to announce self: master server is not available at this time.
+[22:03:33] Failed to announce self: master server is not available at this time.
+[22:05:33] Failed to announce self: master server is not available at this time.
+[22:06:23] Initiating connection: [192.168.31.7:49157]
+[22:06:24] Processing connection: Lemonsey (Lemonsey) [192.168.31.7]
+[22:06:27] Connection established: Lemonsey (Lemonsey) [192.168.31.7]
+[22:07:33] Failed to announce self: master server is not available at this time.
+[22:09:33] Failed to announce self: master server is not available at this time.
+[22:11:33] Failed to announce self: master server is not available at this time.
+[22:13:01] Player disconnected: Lemonsey (Lemonsey) [192.168.31.7], reason: Quit
+[22:13:33] Failed to announce self: master server is not available at this time.
+[22:14:19] Terminating...
+[22:14:19] Stopping SimpleFX
+[22:14:19] Stopped SimpleFX!
+-> SERVER STARTED AT 02.03.2019 23:00:21[23:00:21] Starting...
+[23:00:21] Loading resources...
+[23:00:21] Starting SimpleFX
+[23:00:21] Failed to announce self: master server is not available at this time.
+[23:00:21] Resource SimpleFX started!
+[23:00:21] Started! Waiting for connections.
+[23:02:22] Failed to announce self: master server is not available at this time.
+[23:02:56] Initiating connection: [192.168.31.7:49158]
+[23:02:57] Processing connection: Landrut (Landrut) [192.168.31.7]
+[23:02:59] Connection established: Landrut (Landrut) [192.168.31.7]
+[23:04:21] Failed to announce self: master server is not available at this time.
+[23:04:57] Landrut: gre
+[23:05:14] Player disconnected: Landrut (Landrut) [192.168.31.7], reason: Quit
+[23:05:17] Terminating...
+[23:05:17] Stopping SimpleFX
+[23:05:17] Stopped SimpleFX!
+-> SERVER STARTED AT 02.03.2019 23:39:22[23:39:22] Starting...
+[23:39:22] Loading resources...
+[23:39:22] Starting SimpleFX
+[23:39:22] ERROR STARTING RESOURCE SimpleFX
+[23:39:23] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:39:23] Started! Waiting for connections.
+[23:39:23] Failed to announce self: master server is not available at this time.
+[23:39:31] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:39:51[23:39:51] Starting...
+[23:39:51] Loading resources...
+[23:39:51] Starting SimpleFX
+[23:39:51] ERROR STARTING RESOURCE SimpleFX
+[23:39:51] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:39:51] Started! Waiting for connections.
+[23:39:51] Failed to announce self: master server is not available at this time.
+[23:39:53] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:40:06[23:40:06] Starting...
+[23:40:06] Loading resources...
+[23:40:06] Starting SimpleFX
+[23:40:06] ERROR STARTING RESOURCE SimpleFX
+[23:40:06] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:40:06] Started! Waiting for connections.
+[23:40:06] Failed to announce self: master server is not available at this time.
+[23:40:12] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:40:56[23:40:56] Starting...
+[23:40:56] Loading resources...
+[23:40:56] Starting SimpleFX
+[23:40:56] ERROR STARTING RESOURCE SimpleFX
+[23:40:56] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:40:56] Started! Waiting for connections.
+[23:40:56] Failed to announce self: master server is not available at this time.
+[23:41:03] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:41:16[23:41:16] Starting...
+[23:41:16] Loading resources...
+[23:41:16] Started! Waiting for connections.
+[23:41:16] Failed to announce self: master server is not available at this time.
+[23:41:19] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:41:31[23:41:31] Starting...
+[23:41:31] Loading resources...
+[23:41:31] Starting SimpleFX
+[23:41:31] ERROR STARTING RESOURCE SimpleFX
+[23:41:31] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:41:31] Started! Waiting for connections.
+[23:41:31] Failed to announce self: master server is not available at this time.
+[23:41:37] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:42:45[23:42:45] Starting...
+[23:42:46] Loading resources...
+[23:42:46] Starting SimpleFX
+[23:42:46] ERROR STARTING RESOURCE SimpleFX
+[23:42:46] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:42:46] Started! Waiting for connections.
+[23:42:46] Failed to announce self: master server is not available at this time.
+[23:42:49] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:44:51[23:44:51] Starting...
+[23:44:52] Loading resources...
+[23:44:52] Starting SimpleFX
+[23:44:52] ERROR STARTING RESOURCE SimpleFX
+[23:44:52] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:44:52] Started! Waiting for connections.
+[23:44:52] Failed to announce self: master server is not available at this time.
+[23:45:01] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:45:56[23:45:56] Starting...
+[23:45:56] Loading resources...
+[23:45:56] Starting SimpleFX
+[23:45:56] ERROR STARTING RESOURCE SimpleFX
+[23:45:56] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:45:56] Started! Waiting for connections.
+[23:45:57] Failed to announce self: master server is not available at this time.
+[23:46:03] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:48:20[23:48:20] Starting...
+[23:48:21] Loading resources...
+[23:48:21] Starting SimpleFX
+[23:48:21] ERROR STARTING RESOURCE SimpleFX
+[23:48:21] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:48:21] Started! Waiting for connections.
+[23:48:21] Failed to announce self: master server is not available at this time.
+[23:48:22] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:49:24[23:49:24] Starting...
+[23:49:25] Loading resources...
+[23:49:25] Starting SimpleFX
+[23:49:25] ERROR STARTING RESOURCE SimpleFX
+[23:49:25] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:49:25] Started! Waiting for connections.
+[23:49:25] Failed to announce self: master server is not available at this time.
+[23:49:31] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:49:57[23:49:57] Starting...
+[23:49:57] Loading resources...
+[23:49:57] Starting SimpleFX
+[23:49:57] ERROR STARTING RESOURCE SimpleFX
+[23:49:57] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:49:57] Started! Waiting for connections.
+[23:49:57] Failed to announce self: master server is not available at this time.
+[23:50:58] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:51:47[23:51:47] Starting...
+[23:51:47] Loading resources...
+[23:51:47] Starting SimpleFX
+[23:51:47] ERROR STARTING RESOURCE SimpleFX
+[23:51:47] System.Reflection.ReflectionTypeLoadException: Не удается загрузить один или более запрошенных типов. Обратитесь к свойству LoaderExceptions для получения дополнительных сведений.
+   в System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   в System.Reflection.Assembly.GetTypes()
+   в SimpleNativeMultiplayerServer.GameServer.<InstantiateScripts>d__134.MoveNext() в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\GameServer.cs:строка 470
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   в SimpleNativeMultiplayerServer.GameServer.StartResource(String resourceName, String father) в D:\amp-0ec678f4cd6e536db8bace431af9adab00422ab9\Server\Resources.cs:строка 220
+[23:51:47] Started! Waiting for connections.
+[23:51:48] Failed to announce self: master server is not available at this time.
+[23:51:49] Terminating...
+-> SERVER STARTED AT 02.03.2019 23:54:29[23:54:29] Starting...
+[23:54:30] Loading resources...
+[23:54:30] Starting SimpleFX
+[23:54:30] Resource SimpleFX started!
+[23:54:30] Started! Waiting for connections.
+[23:54:30] Failed to announce self: master server is not available at this time.
+[23:54:34] Terminating...
+[23:54:34] Stopping SimpleFX
+[23:54:34] Stopped SimpleFX!
+-> SERVER STARTED AT 02.03.2019 23:56:10[23:56:11] Starting...
+[23:56:11] Loading resources...
+[23:56:11] Starting SimpleFX
+[23:56:11] Resource SimpleFX started!
+[23:56:11] Started! Waiting for connections.
+[23:56:11] Failed to announce self: master server is not available at this time.
+[23:56:13] Terminating...
+[23:56:13] Stopping SimpleFX
+[23:56:13] Stopped SimpleFX!
+-> SERVER STARTED AT 02.03.2019 23:57:10[23:57:10] Starting...
+[23:57:10] Loading resources...
+[23:57:11] Starting SimpleFX
+[23:57:11] Resource SimpleFX started!
+[23:57:11] Started! Waiting for connections.
+[23:57:11] Failed to announce self: master server is not available at this time.
+[23:57:12] Terminating...
+[23:57:12] Stopping SimpleFX
+[23:57:12] Stopped SimpleFX!
+-> SERVER STARTED AT 03.03.2019 0:03:27[00:03:28] Starting...
+[00:03:28] Loading resources...
+[00:03:28] Starting SimpleFX
+[00:03:28] Resource SimpleFX started!
+[00:03:28] Started! Waiting for connections.
+[00:03:28] Failed to announce self: master server is not available at this time.
+[00:05:29] Failed to announce self: master server is not available at this time.
+[00:06:43] Initiating connection: [192.168.31.7:49153]
+[00:06:43] Processing connection: Landrut (Landrut) [192.168.31.7]
+[00:06:44] Connection established: Landrut (Landrut) [192.168.31.7]
+[00:07:28] Failed to announce self: master server is not available at this time.
+[00:08:03] Player disconnected: Landrut (Landrut) [192.168.31.7], reason: Quit
+[00:08:23] Terminating...
+[00:08:23] Stopping SimpleFX
+[00:08:23] Stopped SimpleFX!
+-> SERVER STARTED AT 03.03.2019 0:09:58[00:09:58] Starting...
+[00:09:59] Loading resources...
+[00:09:59] Starting SimpleFX
+[00:09:59] Resource SimpleFX started!
+[00:09:59] Started! Waiting for connections.
+[00:09:59] Failed to announce self: master server is not available at this time.
+[00:10:00] Terminating...
+[00:10:00] Stopping SimpleFX
+[00:10:00] Stopped SimpleFX!
